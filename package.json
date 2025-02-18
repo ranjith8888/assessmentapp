@@ -2,7 +2,11 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://github.com/ranjith8888/assessmentapp",
+=======
+  "homepage": "https://ranjith8888.github.io/assessmentapp",
+>>>>>>> 000047a (checged homepage)
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
