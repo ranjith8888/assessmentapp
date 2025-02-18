@@ -7,7 +7,7 @@ import Editor from './components/Editor.tsx';
 
 function App() {
   return (
-    <Router>
+      <Router basename="/assessmentapp">
       <CssBaseline />
       <Box sx={{ padding: 4 }}>
         <Routes>
